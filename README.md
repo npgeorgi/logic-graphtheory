@@ -13,8 +13,8 @@ The graph theory is presented in the packages containing the ZF axioms.
 
 There are two pairs of Mathematica packages:
 
-  1. "ZFfinite`Master9`" & "Combinatorics`MasterC9`".
-  2. "ZFfinite`Master`" & "Combinatorics`Master`".
+  1. "``ZFfinite`Master9` ``" & "``Combinatorics`MasterC9` ``".
+  2. "``ZFfinite`Master` ``" & "``Combinatorics`Master` ``".
 
 The first pair does not use the Combinatorica Mathematica package,
 while the second one does.
